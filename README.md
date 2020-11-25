@@ -2,7 +2,7 @@
 
 Submitted project for https://hackathon.iot2tangle.io/
 
-[See also the Wiki for further documentatio](Wiki)
+[See also the Wiki for further documentation](https://github.com/corbo/Rainwater-buffer/Wiki)
 
 ## Problem:
     Flooding in urbanized areas in case of heavy rainfall
