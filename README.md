@@ -2,7 +2,7 @@
 
 Submitted project for https://hackathon.iot2tangle.io/
 
-[See also the Wiki](Wiki Home)
+[See also the Wiki for further documentatio](Wiki)
 
 ## Problem:
     Flooding in urbanized areas in case of heavy rainfall
